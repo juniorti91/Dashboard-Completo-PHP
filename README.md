@@ -13,7 +13,12 @@ Este repositório contém o desenvolvimento de um **Dashboard Completo em PHP**,
 
 ## 📁 Estrutura do Projeto
 
-Dashboard-Completo-PHP/ ├── assets/ # Arquivos estáticos (CSS, JS, imagens) ├── includes/ # Arquivos PHP incluídos (conexão, funções) ├── modules/ # Módulos do dashboard (ex: usuários, vendas) ├── index.php # Página inicial (login) ├── dashboard.php # Página principal do dashboard └── README.md #
+Dashboard-Completo-PHP/ ├── assets/ 
+# Arquivos estáticos (CSS, JS, imagens) ├── includes/ 
+# Arquivos PHP incluídos (conexão, funções) ├── modules/ 
+# Módulos do dashboard (ex: usuários, vendas) ├── index.php 
+# Página inicial (login) ├── dashboard.php 
+# Página principal do dashboard └── README.md #
 
 ## ⚙️ Como Executar
 
