@@ -1,2 +1,2 @@
-# CursoDashboardCompleto
-Curso Completo de Dashboard com Projetos para aumentar mais ainda o conhecimento e aprendizado
+# Dashboard em PHP
+Criação de um Dashboard completo em PHP, utilizando os banco de dados MySQL.
